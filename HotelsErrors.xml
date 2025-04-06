@@ -130,4 +130,17 @@
             <Zip>85004</Zip>
         </Address>
     </Hotel>
+
+        <!-- Hotel 11 -->
+    <Hotel Rating="9.2">
+        <Name>Tempe Mission Palms</Name>
+        <Phone>480-894-1400</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>60</Number>
+            <Street>E 5th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
 </Hotels>
