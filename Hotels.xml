@@ -6,7 +6,7 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor"> 
+        <Address NearstAirport="Sky Harbor"> 
             <Number>11</Number> 
             <Street>E 7th St</Street> 
             <City>Tempe</City> 
@@ -19,7 +19,7 @@
     <Hotel Rating="9.8">
         <Name>The Canyon Suites</Name>
         <Phone>480-941-8200</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>6000</Number>
             <Street>E. Camelback Rd</Street>
             <City>Scottsdale</City>
@@ -45,7 +45,7 @@
     <Hotel Rating="9.5">
         <Name>Mountain Shadows Resort</Name>
         <Phone>855-485-1417</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>855</Number>
             <Street>E. Lincoln Dr</Street>
             <City>Paradise Valley</City>
@@ -72,7 +72,7 @@
     <Hotel>
         <Name>Four Seasons Resort Orlando</Name>
         <Phone>407-313-7777</Phone>
-        <Address NearestAirport="Orlando International Airport">
+        <Address NearstAirport="Orlando International Airport">
             <Number>10100</Number>
             <Street>Dream Tree Blvd</Street>
             <City>Lake Buena Vista</City>
@@ -98,7 +98,7 @@
     <Hotel>
         <Name>Warwick Allerton Chicago</Name>
         <Phone>312-440-1500</Phone>
-        <Address NearestAirport="Chicago Midway International Airport">
+        <Address NearstAirport="Chicago Midway International Airport">
             <Number>701</Number>
             <Street>N Michigan Ave</Street>
             <City>Chicago</City>
@@ -111,7 +111,7 @@
     <Hotel>
         <Name>Kings Inn San Diego</Name>
         <Phone>619-297-2231</Phone>
-        <Address NearestAirport="San Diego International Airport">
+        <Address NearstAirport="San Diego International Airport">
             <Number>1333</Number>
             <Street>Hotel Circle</Street>
             <City>San Diego</City>
@@ -124,7 +124,7 @@
     <Hotel Rating="9.0">
         <Name>FOUNDRE</Name>
         <Phone>602-875-8000</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>1100</Number>
             <Street>N Central Ave</Street>
             <City>Phoenix</City>
@@ -138,7 +138,7 @@
         <Name>Tempe Mission Palms</Name>
         <Phone>480-894-1400</Phone>
         <Phone>480-207-1578</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>60</Number>
             <Street>E 5th St</Street>
             <City>Tempe</City>
