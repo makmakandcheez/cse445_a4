@@ -58,6 +58,7 @@
     <Hotel Rating="8.2">
         <Name>PUBLIC Hotel</Name>
         <Phone>212-735-6000</Phone>
+        <Phone>888-871-5226</Phone>
         <Address NearestAirport="LaGuardia Airport">
             <Number>215</Number>
             <Street>Chrystie St</Street>
@@ -136,6 +137,7 @@
     <Hotel Rating="9.2">
         <Name>Tempe Mission Palms</Name>
         <Phone>480-894-1400</Phone>
+        <Phone>480-207-1578</Phone>
         <Address NearestAirport="Sky Harbor">
             <Number>60</Number>
             <Street>E 5th St</Street>
